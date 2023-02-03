@@ -279,12 +279,13 @@ input::-webkit-inner-spin-button {
   background-color: #16DB99;
   width: 508px;
   margin-bottom: 20px;
+  padding-top: 10px;
   position: absolute;
   bottom: 0;
   height: 50px;
   color: #dedede;
   border: none;
   border-radius: 20px;
-  
-  font-size: 1.5rem;
+  font-size: 1.9rem;
+  text-align: center;
 }
