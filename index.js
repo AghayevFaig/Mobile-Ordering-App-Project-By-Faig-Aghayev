@@ -41,7 +41,7 @@ document.addEventListener('click',(e)=>{
   }else if(e.target.id =='rate-btn'){
     document.getElementById('navEl').innerHTML=
     `<p class='afterRate'>Thank you for your rating.You can go back home and buy more from us</p>
-      <button class='home'><a href='index.html'>Go buy more<a/></button>
+      <a href='index.html' class='home'>Go buy more<a/>
     `
   }
 })
